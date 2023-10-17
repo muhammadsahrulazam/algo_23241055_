@@ -1,44 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T04:53:16.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="bKqybUMJv1Kp4R6H4zlC" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T04:58:19.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="F7JWCqrRPuxawUAqR2xn" version="22.0.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="880" dy="2625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SQbSiZaYX_IfG4sLnDDH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SQbSiZaYX_IfG4sLnDDH-1" target="SQbSiZaYX_IfG4sLnDDH-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="L9s93CqL9FXux5c3EW54-6" value="&lt;div&gt;LA&lt;/div&gt;&lt;div&gt;a&lt;/div&gt;&lt;div&gt;t&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-2010" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SQbSiZaYX_IfG4sLnDDH-1" value="star" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="385" y="-2180" width="80" height="30" as="geometry" />
+        <mxCell id="L9s93CqL9FXux5c3EW54-7" value="La=1/2xaxt" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-1900" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="SQbSiZaYX_IfG4sLnDDH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbSiZaYX_IfG4sLnDDH-2" target="SQbSiZaYX_IfG4sLnDDH-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="L9s93CqL9FXux5c3EW54-8" value="1/2xaxt" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-1750" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SQbSiZaYX_IfG4sLnDDH-2" value="masukan bilangan" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-2100" width="100" height="60" as="geometry" />
+        <mxCell id="L9s93CqL9FXux5c3EW54-9" value="LA" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-1620" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SQbSiZaYX_IfG4sLnDDH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbSiZaYX_IfG4sLnDDH-6" target="SQbSiZaYX_IfG4sLnDDH-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="L9s93CqL9FXux5c3EW54-10" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="385" y="-1510" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SQbSiZaYX_IfG4sLnDDH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbSiZaYX_IfG4sLnDDH-6" target="SQbSiZaYX_IfG4sLnDDH-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SQbSiZaYX_IfG4sLnDDH-6" value="bil mod 2=0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-1980" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="SQbSiZaYX_IfG4sLnDDH-7" value="genap" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-1960" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SQbSiZaYX_IfG4sLnDDH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbSiZaYX_IfG4sLnDDH-8" target="SQbSiZaYX_IfG4sLnDDH-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SQbSiZaYX_IfG4sLnDDH-8" value="ganjil" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-1800" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SQbSiZaYX_IfG4sLnDDH-9" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="385" y="-1680" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SQbSiZaYX_IfG4sLnDDH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SQbSiZaYX_IfG4sLnDDH-7" target="SQbSiZaYX_IfG4sLnDDH-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="L9s93CqL9FXux5c3EW54-11" value="star" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="385" y="-2150" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
