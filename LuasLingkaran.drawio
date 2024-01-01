@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2024-01-01T12:08:35.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="3eTKBvSC39WX6qdhgVZz" version="22.1.16" type="device">
+  <diagram name="Page-1" id="jr_epOJPyc_aueluBdOg">
+    <mxGraphModel dx="2267" dy="1490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FU4folOtBhGu_iYwAOqX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FU4folOtBhGu_iYwAOqX-14" target="FU4folOtBhGu_iYwAOqX-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FU4folOtBhGu_iYwAOqX-14" value="star" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-114" y="-779" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FU4folOtBhGu_iYwAOqX-15" value="&lt;div&gt;masukan jari jari&lt;/div&gt;&lt;div&gt;r&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="-134.5" y="-663" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FU4folOtBhGu_iYwAOqX-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FU4folOtBhGu_iYwAOqX-17" target="FU4folOtBhGu_iYwAOqX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FU4folOtBhGu_iYwAOqX-17" value="L=22/7 *r*r" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-159" y="-545" width="181" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FU4folOtBhGu_iYwAOqX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.529;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FU4folOtBhGu_iYwAOqX-15" target="FU4folOtBhGu_iYwAOqX-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FU4folOtBhGu_iYwAOqX-19" value="&lt;div&gt;tampilkan&lt;/div&gt;&lt;div&gt;luas L&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-128.5" y="-378" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FU4folOtBhGu_iYwAOqX-21" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-118.5" y="-261" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FU4folOtBhGu_iYwAOqX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FU4folOtBhGu_iYwAOqX-19" target="FU4folOtBhGu_iYwAOqX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
